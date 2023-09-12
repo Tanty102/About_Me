@@ -409,27 +409,17 @@ span {
 
 .skills-box .skills-content {
   position: relative;
-  border: 0.2rem solid var(--main-color);
-  border-radius: 0.6rem;
-  padding: 0.5rem 1.5rem;
-  z-index: 1;
-  overflow: hidden;
+  border: .2rem solid var(--main-color);
+  border-radius: .6rem;
+  padding: .5rem 1.5rem;
 }
 
 .skills-box .skills-content::before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
-  left: 0;
-  width: 0;
-  height: 100%;
-  background: var(--bg-color);
-  z-index: -1;
-  transition: .5s;
-}
-
-.skills-box .skills-content:hover::before {
-  width: 100%;
+  left: 0
+  w;
 }
 
 .skills-content .progress {
@@ -443,21 +433,21 @@ span {
 }
 
 .skills-content .progress h3 span {
-  color: var(--text-color);
+  color:var(--text-color);
 }
 
 .skills-content .progress .bar {
   height: 2.5rem;
-  border-radius: 0.6rem;
-  border: 0.2rem solid var(--main-color);
-  padding: 0.5rem;
+  border-radius: .6rem;
+  border: .2rem solid var(--main-color);
+  padding: .5rem;
   margin: 1rem 0;
 }
 
 .skills-content .progress .bar span {
   display: block;
   height: 100%;
-  border-radius: 0.3rem;
+  border-radius: .3rem;
   background: var(--main-color);
 }
 
