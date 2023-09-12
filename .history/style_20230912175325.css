@@ -290,10 +290,5 @@ span {
 }
 
 .btn-box.btns {
-  display: inline-block;
-  width: 15rem;
-}
 
-.btn-box.btns a::before {
-  background: var(--second-bg-color);
 }
