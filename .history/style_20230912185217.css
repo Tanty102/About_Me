@@ -360,11 +360,12 @@ span {
   height: 100%;
   background: var(--second-bg-color);
   z-index: -1;
-  transition: 0.5s;
+  transition: .5s;
 }
 
 .education-content .content:hover::before {
   width: 100%;
+
 }
 
 .education-content .content .year {
