@@ -39,11 +39,6 @@ body {
   justify-content: space-between;
   align-items: center;
   z-index: 100;
-  transition: 0.3s;
-}
-
-.header.sticky {
-  background: var(--bg-color);
 }
 
 .logo {
@@ -97,7 +92,7 @@ section {
 }
 
 .home-content h1 span {
-  color: var(--text-color);
+  
 }
 
 .home-content .text-animate {
