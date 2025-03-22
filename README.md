@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tanty102](https://github.com/Tanty102)
+- - 👨‍💻 Website CV at [[https://github.com/Tanty102](https://github.com/Tanty102)](https://tanty102.github.io/About_Me/)
 
 - 📫 How to reach me **nguyentanty102@gmail.com**
 
